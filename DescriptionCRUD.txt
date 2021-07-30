@@ -1,0 +1,5 @@
+phân quyền :
+em quên tạo role tròn database
+em phân theo tên username
+CRUD em thao tác hết trên trang admin
+còn trang user em để chống
